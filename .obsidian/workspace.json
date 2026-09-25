@@ -242,11 +242,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "5357ecb87c70c713",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "29 cентября/10 Старосты.md",
     "29 cентября/09 Открываю.md",
     "29 cентября/08 Определяю.md",
